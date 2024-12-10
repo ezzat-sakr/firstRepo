@@ -5,3 +5,7 @@
 body {
     --main_color: #F00
 }
+
+.test {
+    font-weight: bold;
+}
